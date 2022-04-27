@@ -1,4 +1,5 @@
 **1. Cài đặt môi trường web:**<br>
+nhớ cài docker trước
 **B1: Clone thư mục code**
 - git clone ...
 
@@ -64,7 +65,7 @@ php artisan db:seed --class=UserSeeder;<br>
 MAIL_DRIVER=smtp<br>
 MAIL_HOST=smtp.gmail.com<br>
 MAIL_PORT=587<br>
-MAIL_USERNAME=ngocntm.work@gmail.com<br>
+MAIL_USERNAME=nguyenvietthangkks@gmail.com<br>
 MAIL_PASSWORD=********(Liên hệ gmail để lấy password)<br> 
 MAIL_ENCRYPTION=tls<br>
 

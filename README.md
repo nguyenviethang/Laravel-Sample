@@ -76,3 +76,5 @@ php artisan queue:work;<br>
 Đăng nhập với tài khoản<br>
 email: admin@gmail.com<br>
 password: 123456a<br>
+
+video: https://youtu.be/h5Be2QdO4xM
